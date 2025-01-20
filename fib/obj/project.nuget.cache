@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hqxkTYRArNu+eiHWiL7OnllVZCUysDaOtw/zD2EKgs/BGHI0IdAzp1plrILj5UciBzegNN+wXTKumZh9R61Ptg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Documents\\שיעורי בית בתכנות\\תשפה\\פרקטיקוד 1 CLI\\fib\\fib\\fib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\system.commandline.namingconventionbinder\\2.0.0-beta4.22272.1\\system.commandline.namingconventionbinder.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
